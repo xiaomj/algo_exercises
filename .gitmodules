@@ -1,0 +1,6 @@
+[submodule "leetcode"]
+	path = leetcode
+	url = https://github.com/xiaomj/leetcode.git
+[submodule "algo"]
+	path = algo
+	url = https://github.com/xiaomj/algo.git
